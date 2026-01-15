@@ -11,7 +11,6 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats-peach-seven-11.vercel.app/api?username=kasgau&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats-peach-seven-11.vercel.app/?user=kasgau&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats-peach-seven-11.vercel.app/api/top-langs/?username=kasgau&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
